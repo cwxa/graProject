@@ -1,0 +1,18 @@
+Proportion of has_issues in C projects: 92.00%
+Proportion of has_issues in Go projects: 99.00%
+Comparison: C vs Go - has_issues: C projects have lower proportion of has_issues than Go projects.
+Proportion of has_projects in C projects: 73.00%
+Proportion of has_projects in Go projects: 73.00%
+Comparison: C vs Go - has_projects: C projects have lower proportion of has_projects than Go projects.
+Proportion of has_downloads in C projects: 96.00%
+Proportion of has_downloads in Go projects: 98.00%
+Comparison: C vs Go - has_downloads: C projects have lower proportion of has_downloads than Go projects.
+Proportion of has_wiki in C projects: 66.00%
+Proportion of has_wiki in Go projects: 49.00%
+Comparison: C vs Go - has_wiki: C projects have higher proportion of has_wiki than Go projects.
+Proportion of has_pages in C projects: 22.00%
+Proportion of has_pages in Go projects: 16.00%
+Comparison: C vs Go - has_pages: C projects have higher proportion of has_pages than Go projects.
+Proportion of has_discussions in C projects: 43.00%
+Proportion of has_discussions in Go projects: 57.00%
+Comparison: C vs Go - has_discussions: C projects have lower proportion of has_discussions than Go projects.
